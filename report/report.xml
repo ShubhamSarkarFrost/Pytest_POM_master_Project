@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><testsuites><testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="15.978" timestamp="2024-08-13T23:49:37.030149" hostname="MSI"><testcase classname="tests.parabank_register_page" name="test_parabank_registration" time="11.899" /></testsuite></testsuites>
